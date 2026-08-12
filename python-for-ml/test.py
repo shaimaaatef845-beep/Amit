@@ -5,3 +5,4 @@ course = input("what your courcs:")
 print("my name",name )
 print("my age",age )
 print("course is ",course )
+#test
